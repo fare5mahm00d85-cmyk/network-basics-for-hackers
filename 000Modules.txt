@@ -1,0 +1,19 @@
+Modules
+#	Topic
+i	Network Basics For Hackers PDF
+00	Course Introduction
+01	Network Basics — TCP/IP, OSI, Ports & nmap
+02	Subnetting & CIDR
+03	Network Analysis — Wireshark & tcpdump
+04	Linux Firewalls — iptables
+05	Wi-Fi Hacking
+06	Bluetooth Networks
+07	ARP — Address Resolution Protocol
+08	DNS — The Internet's Phonebook
+09	SMB — Server Message Block
+10	SMTP — Email Protocol
+11	SNMP — Network Management Protocol
+12	HTTP & HTTPS — The Web's Language
+13	Automobile Networks — CAN Bus
+14	SCADA & Industrial Control Systems
+15	RF & Software Defined Radio
